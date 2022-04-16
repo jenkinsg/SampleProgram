@@ -4,7 +4,6 @@ class SimpleProgram {
    System.out.println("  Sample Test Program ");
    System.out.println(" -------------- ");
    System.out.println(" -------------- ");
-   System.out.println(" Creating New Branch Master In Jenkinsg ");
   }
 }
 
